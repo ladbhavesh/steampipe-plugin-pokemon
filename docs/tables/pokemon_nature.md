@@ -11,7 +11,7 @@ select
   name, 
   id 
 from
- pokemon_nature 
+ pokemon_nature;
 ```
 
 ### List specific nature with name as 'bold'
